@@ -4,12 +4,12 @@ requirement program :
 untuk menjalankan program ini diperlukan instalasi python terlebih dahulu
 
 cara menggunakan program :
-   * 1. instalasi python
-   * 2. buka terminal/cmd pada sistem operasi
-   * 3. change directory kepada folder yang berisi tucil1.py, dapat menggunakan ls untuk cek apakah CracktheEgg.py. apabila dari folder Tucil2_13519129 dapat menggunakan command "cd src"
-   * 4. sesuaikan input dengan memilih input yang berada pada folder test namun perlu disesuaikan nama input yang dipilih pada source codenya pada saat pembacaan file ( f = open("../test/<namafiletxt>", "+r" ))
-   * 5. gunakan command "python3 tucil1.py" untuk mengeksekusi Program
-   * 6. hasil dari program akan ditampilkan pada terminal
+   * instalasi python
+   * buka terminal/cmd pada sistem operasi
+   * change directory kepada folder yang berisi tucil1.py, dapat menggunakan ls untuk cek apakah CracktheEgg.py. apabila dari folder Tucil2_13519129 dapat menggunakan command "cd src"
+   * sesuaikan input dengan memilih input yang berada pada folder test namun perlu disesuaikan nama input yang dipilih pada source codenya pada saat pembacaan file ( f = open("../test/<namafiletxt>", "+r" ))
+   * gunakan command "python3 tucil1.py" untuk mengeksekusi Program
+   * hasil dari program akan ditampilkan pada terminal
 
 
 
